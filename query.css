@@ -1,0 +1,17 @@
+@media screen and (max-width: 375px) {
+  html {
+    max-width: 375px;
+  }
+
+  header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 30px 24px;
+    max-width: 375px;
+  }
+
+  .section_two img{
+    width: 300px;
+  }
+}
